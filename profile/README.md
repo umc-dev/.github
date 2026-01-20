@@ -11,7 +11,7 @@ Fokus pada pengembangan **Website Profile Prodi Teknik Informatika UMC** dan sis
 | Nama | GitHub | Role |
 |-----|---------|------|
 | Friza | [@frizapc](https://github.com/frizapc) | Backend Developer |
-| Alfarizi Dwi Prasetyo | [@AlfariziDwiPrasetyo](https://github.com/AlfariziDwiPrasetyo) | Frontend & Backend |
+| Alfarizi Dwi Prasetyo | [@AlfariziDwiPrasetyo](https://github.com/AlfariziDwiPrasetyo) | Fullstack Developer |
 | Muhammad Faiz | [@muhammadfaiz19](https://github.com/muhammadfaiz19) | Frontend Developer |
 | Sodiq Abdullah | [@SodiqAbdullah](https://github.com/SodiqAbdullah) | Server & Deployment |
 | Dandy | [@INDandy](https://github.com/INDandy) | WordPress Developer |
